@@ -1,4 +1,8 @@
-# coding: utf-8
+# Grupo:
+# Jonathan Moura
+# Bárbara Braz
+# Suzana Freitas
+
 import MonitoramentoVagas
 
 
