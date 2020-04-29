@@ -1,7 +1,4 @@
-# Grupo:
-# Jonathan Moura
-# Bárbara Braz
-# Suzana Freitas
+# Grupo: Jonathan Moura / Bárbara Braz / Suzana Freitas
 
 import MonitoramentoVagas
 
