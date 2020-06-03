@@ -1,4 +1,7 @@
 # MoraisParking
-Projeto Python da disciplina de Estrutura de Dados: Sistema de Estacionamento de uma Universidade.
+Projeto da disciplina de Estrutura de Dados: Sistema de Estacionamento de uma Universidade.
 
-Grupo: Jonathan Moura / Bárbara Braz / Suzana Freitas
+Grupo: Jonathan Moura / Bárbara Braz / Suzana 
+
+Linguagem de programação: Python
+Banco de Dados: PostgreSQL12
